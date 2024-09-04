@@ -5,6 +5,7 @@ O objetivo desse repositório é catalogar os conteúdos existentes na internet 
 ## Base para qualquer linguagem
 
 <ul>
+
 É recomendado assistir [ESTE VÍDEO](https://www.youtube.com/watch?v=BTENKdRVS2U) antes de iniciar.
 
 ### Lógica de Programação
